@@ -1,0 +1,13 @@
+C:\Users\juan-concentra\Desktop\SuccessionOfFibonacci\SuccessionOfFibonacci\bin\Debug\netcoreapp3.1\SuccessionOfFibonacci.exe
+C:\Users\juan-concentra\Desktop\SuccessionOfFibonacci\SuccessionOfFibonacci\bin\Debug\netcoreapp3.1\SuccessionOfFibonacci.deps.json
+C:\Users\juan-concentra\Desktop\SuccessionOfFibonacci\SuccessionOfFibonacci\bin\Debug\netcoreapp3.1\SuccessionOfFibonacci.runtimeconfig.json
+C:\Users\juan-concentra\Desktop\SuccessionOfFibonacci\SuccessionOfFibonacci\bin\Debug\netcoreapp3.1\SuccessionOfFibonacci.runtimeconfig.dev.json
+C:\Users\juan-concentra\Desktop\SuccessionOfFibonacci\SuccessionOfFibonacci\bin\Debug\netcoreapp3.1\SuccessionOfFibonacci.dll
+C:\Users\juan-concentra\Desktop\SuccessionOfFibonacci\SuccessionOfFibonacci\bin\Debug\netcoreapp3.1\SuccessionOfFibonacci.pdb
+C:\Users\juan-concentra\Desktop\SuccessionOfFibonacci\SuccessionOfFibonacci\obj\Debug\netcoreapp3.1\SuccessionOfFibonacci.csprojAssemblyReference.cache
+C:\Users\juan-concentra\Desktop\SuccessionOfFibonacci\SuccessionOfFibonacci\obj\Debug\netcoreapp3.1\SuccessionOfFibonacci.AssemblyInfoInputs.cache
+C:\Users\juan-concentra\Desktop\SuccessionOfFibonacci\SuccessionOfFibonacci\obj\Debug\netcoreapp3.1\SuccessionOfFibonacci.AssemblyInfo.cs
+C:\Users\juan-concentra\Desktop\SuccessionOfFibonacci\SuccessionOfFibonacci\obj\Debug\netcoreapp3.1\SuccessionOfFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\juan-concentra\Desktop\SuccessionOfFibonacci\SuccessionOfFibonacci\obj\Debug\netcoreapp3.1\SuccessionOfFibonacci.dll
+C:\Users\juan-concentra\Desktop\SuccessionOfFibonacci\SuccessionOfFibonacci\obj\Debug\netcoreapp3.1\SuccessionOfFibonacci.pdb
+C:\Users\juan-concentra\Desktop\SuccessionOfFibonacci\SuccessionOfFibonacci\obj\Debug\netcoreapp3.1\SuccessionOfFibonacci.genruntimeconfig.cache
